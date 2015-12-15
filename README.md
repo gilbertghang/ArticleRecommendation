@@ -1,16 +1,5 @@
-# WikipediaEditRecomendation
-For CS194-16: Data Science Class
+# Wikipedia Article Recommendation
+### A knowledge-based article recommendation system for Wikipedia contributors.
 
-# Usage
+Contributions from Dennis Zhao, Ranit Dubey, and Jonathan Bai.
 
-## How to scrape random 500 active wiki users' contributions:
-```
-cd scrape
-npm install
-// To get random 500 users' contributions. 
-node scrape.js -con contributions.txt
-// To get Categories on specific topic (In this case John Canny)
-node scrape.js -cat categories.txt John\ Canny
-```
-## Data schema
-Refer to contributions.txt and categories.txt

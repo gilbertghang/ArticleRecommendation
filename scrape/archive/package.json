@@ -1,8 +1,0 @@
-{
-    "name": "WikiScrape",
-    "dependencies": {
-        "request": "*",
-        "underscore": "*"
-
-    }
-}
